@@ -1,0 +1,5 @@
+{
+  "_note": "No faculty are listed until the official directory is supplied. Each entry: id, name, designation, department (department slug), qualification, specialization, email, photo.",
+  "designations": ["Professor", "Associate Professor", "Assistant Professor"],
+  "members": []
+}

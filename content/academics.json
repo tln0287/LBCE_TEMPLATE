@@ -1,0 +1,15 @@
+{
+  "_note": "Program list mirrors departments.json. Calendar entries, regulations and syllabus documents stay empty until official files are supplied.",
+  "programs": [
+    { "level": "Undergraduate", "name": "B.Tech", "duration": "4 years", "text": "Bachelor of Technology in CSE, Civil, ECE, EEE and Mechanical Engineering.", "icon": "GraduationCap" },
+    { "level": "Postgraduate", "name": "M.Tech / PG programs", "duration": "2 years", "text": "Postgraduate programs, where offered. To be confirmed by the college.", "icon": "BookOpen" },
+    { "level": "Diploma", "name": "Polytechnic Diploma", "duration": "3 years", "text": "Diploma programs. Admissions open for 2026–27.", "icon": "Wrench" }
+  ],
+  "calendar": [],
+  "regulations": [],
+  "curriculum": [],
+  "examination": {
+    "text": "Examinations are conducted as per Andhra University regulations. Schedules, notifications and results are published here.",
+    "documents": []
+  }
+}

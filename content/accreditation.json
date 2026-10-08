@@ -1,0 +1,13 @@
+{
+  "_note": "Descriptions are general. Add official document links to each body's 'documents' list as they are published; do not add grades, ranks or certificate numbers until verified.",
+  "bodies": [
+    { "slug": "naac", "name": "NAAC", "full": "National Assessment and Accreditation Council", "icon": "Award", "text": "Assessment and accreditation of the institution's quality.", "documents": [] },
+    { "slug": "aicte", "name": "AICTE", "full": "All India Council for Technical Education", "icon": "ShieldCheck", "text": "Approval of technical programs, extension of approval and mandatory disclosure.", "documents": [] },
+    { "slug": "ugc", "name": "UGC", "full": "University Grants Commission", "icon": "Landmark", "text": "UGC mandates and compliance disclosures.", "documents": [{ "title": "UGC Mandate 2025–26", "url": "https://lbce.edu.in/static/UGC-2025-26.pdf", "type": "PDF" }] },
+    { "slug": "nirf", "name": "NIRF", "full": "National Institutional Ranking Framework", "icon": "BarChart3", "text": "NIRF data submissions, functional address and reports.", "documents": [{ "title": "NIRF 2026 Functional Address", "url": "https://lbce.edu.in/static/nirf26.pdf", "type": "PDF" }] },
+    { "slug": "iso", "name": "ISO", "full": "International Organization for Standardization", "icon": "BadgeCheck", "text": "Quality management certification and scope.", "documents": [] },
+    { "slug": "rti", "name": "RTI", "full": "Right to Information", "icon": "FileSearch", "text": "Information officers, procedure and disclosures under the RTI Act.", "documents": [] },
+    { "slug": "iqac", "name": "IQAC", "full": "Internal Quality Assurance Cell", "icon": "ClipboardCheck", "text": "Quality initiatives, AQARs and minutes of meetings.", "documents": [] },
+    { "slug": "iic", "name": "IIC", "full": "Institution's Innovation Council", "icon": "Lightbulb", "text": "Innovation, IPR and entrepreneurship activities under the MoE Innovation Cell.", "documents": [] }
+  ]
+}

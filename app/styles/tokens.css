@@ -1,0 +1,67 @@
+/* ==========================================================================
+   Design tokens — Navy / Royal Blue / Gold / Warm Ivory
+   Contrast notes (WCAG):
+   - Gold #C9A227 is decorative on light surfaces (2.4:1 on white). Gold TEXT on
+     light surfaces uses --gold-ink (5.1:1). Gold text on navy is 7.3:1.
+   - Royal Blue on navy is 2.6:1, so on dark surfaces blue is a fill/underline,
+     and icons use --blue-bright (4.8:1).
+   ========================================================================== */
+:root {
+  --navy: #071a2b;
+  --navy-900: #04111d;
+  --navy-800: #0b2236;
+  --navy-card: #102b42;
+  --navy-grad-end: #102f4a;
+  --navy-glass: rgba(7, 26, 43, 0.93);
+
+  --blue: #145da0;
+  --blue-bright: #1e88e5;
+  --blue-wash: rgba(20, 93, 160, 0.88);
+
+  --gold: #c9a227;
+  --gold-bright: #dcb83c;
+  --gold-ink: #8a6a0a;
+  --gold-soft: rgba(201, 162, 39, 0.35);
+
+  --ivory: #f7f3e8;
+  --white: #ffffff;
+  --sky: #eef5fa;
+
+  --ink: #17212b;
+  --muted: #667085;
+  --muted-on-ivory: #5a6478;
+  --on-dark: #ffffff;
+  --on-dark-muted: #a9b6c4;
+  --line: #e4e9ee;
+  --line-dark: rgba(255, 255, 255, 0.1);
+
+  --font-display: var(--font-manrope), "Segoe UI", system-ui, sans-serif;
+  --font-body: var(--font-inter), "Segoe UI", system-ui, sans-serif;
+
+  /* Type scale — major third (1.25) from a 17px body */
+  --fs-xs: 0.8125rem;   /* 13 */
+  --fs-sm: 0.9375rem;   /* 15 */
+  --fs-base: 1.0625rem; /* 17 */
+  --fs-md: 1.3125rem;   /* 21 */
+  --fs-lg: 1.625rem;    /* 26 */
+  --fs-xl: clamp(1.75rem, 1.2rem + 1.8vw, 2.5rem);   /* 28 → 40 */
+  --fs-2xl: clamp(2.125rem, 1.3rem + 2.8vw, 3.375rem); /* 34 → 54 */
+  --fs-hero: clamp(2.6rem, 1rem + 5.6vw, 6rem);      /* 42 → 96 */
+
+  --radius-sm: 6px;
+  --radius: 12px;
+  --radius-lg: 20px;
+
+  --shadow-card: 0 1px 2px rgba(7, 26, 43, 0.06), 0 8px 24px -12px rgba(7, 26, 43, 0.18);
+  --shadow-lift: 0 2px 4px rgba(7, 26, 43, 0.06), 0 22px 40px -18px rgba(7, 26, 43, 0.35);
+  --glow-gold: 0 0 0 1px var(--gold-soft), 0 0 24px -6px rgba(201, 162, 39, 0.55);
+
+  --gutter: clamp(16px, 4vw, 40px);
+  --container: 1360px;
+  --section-y: clamp(64px, 9vw, 128px);
+  --header-h: 78px;
+  --header-h-compact: var(--header-h);
+
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}

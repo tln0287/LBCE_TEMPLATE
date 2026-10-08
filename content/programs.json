@@ -1,0 +1,32 @@
+{
+  "_note": "Programs listed under Activities, Capacity Building and Skill Development. Program entries stay empty until real records are supplied.",
+  "activities": [
+    { "id": "technical", "title": "Technical Events", "icon": "Cpu", "text": "Project expos, coding contests, paper presentations and technical fests.", "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998" },
+    { "id": "cultural", "title": "Cultural Events", "icon": "Music", "text": "Music, dance, drama and the annual cultural festival.", "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819" },
+    { "id": "sports", "title": "Sports", "icon": "Trophy", "text": "Inter-department and inter-college tournaments and the annual sports meet.", "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc" },
+    { "id": "clubs", "title": "Clubs & Student Chapters", "icon": "Users", "text": "Coding, robotics, literary and arts clubs, and chapters of professional bodies.", "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31" },
+    { "id": "workshops", "title": "Workshops & Seminars", "icon": "Presentation", "text": "Hands-on workshops and expert lectures across disciplines.", "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678" },
+    { "id": "conferences", "title": "Conferences", "icon": "Mic", "text": "National and international conferences hosted by departments.", "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87" },
+    { "id": "fdp", "title": "Faculty Development", "icon": "BookOpen", "text": "FDPs and training to keep faculty current.", "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40" },
+    { "id": "hackathons", "title": "Hackathons", "icon": "Code", "text": "Build events and innovation challenges, on campus and beyond.", "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4" }
+  ],
+  "capacityBuilding": {
+    "legacyUrl": "https://lbce.edu.in/engcollege/capacitybuildingprograms",
+    "intro": "Capacity building programs strengthen the skills of students and faculty through structured training, often run with government schemes and industry partners.",
+    "programs": []
+  },
+  "skillDevelopment": {
+    "legacyUrl": "https://lbce.edu.in/lbce/skill_development",
+    "intro": "Skill development runs alongside the curriculum so students graduate with the technical and professional skills employers ask for.",
+    "areas": [
+      { "id": "training", "title": "Training programs", "icon": "Target", "text": "Structured training in emerging technologies." },
+      { "id": "certifications", "title": "Certifications", "icon": "BadgeCheck", "text": "Industry-recognised certification courses." },
+      { "id": "workshops", "title": "Workshops", "icon": "Presentation", "text": "Short, hands-on workshops led by experts." },
+      { "id": "industry", "title": "Industry training", "icon": "Factory", "text": "Internships and in-plant training." },
+      { "id": "soft-skills", "title": "Soft skills", "icon": "MessageSquare", "text": "Communication, teamwork and presentation." },
+      { "id": "technical", "title": "Technical skills", "icon": "Code", "text": "Programming, design tools and lab skills." },
+      { "id": "career", "title": "Career readiness", "icon": "Briefcase", "text": "Aptitude, resume writing and interview practice." }
+    ],
+    "programs": []
+  }
+}

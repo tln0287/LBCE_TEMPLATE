@@ -1,0 +1,122 @@
+{
+  "hero": [
+    {
+      "id": "future",
+      "title": ["Engineering", "the Future"],
+      "highlight": 1,
+      "text": "Empowering students with knowledge, innovation and technology to create solutions for tomorrow.",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585",
+      "alt": "College building across a green lawn",
+      "ctas": [
+        { "label": "Explore Academics", "href": "/academics", "variant": "primary" },
+        { "label": "Discover Campus", "href": "/campus-life", "variant": "outline" }
+      ]
+    },
+    {
+      "id": "learn",
+      "title": ["Learn. Innovate.", "Lead."],
+      "highlight": 1,
+      "text": "A vibrant learning environment where engineering meets creativity and innovation.",
+      "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837",
+      "alt": "Student sketching an engineering drawing at a workbench",
+      "ctas": [{ "label": "Explore Departments", "href": "/departments", "variant": "primary" }]
+    },
+    {
+      "id": "impact",
+      "title": ["Where Ideas", "Become Impact"],
+      "highlight": 1,
+      "text": "Transforming engineering education through research, technology and industry collaboration.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+      "alt": "Engineer working with automation equipment in a lab",
+      "ctas": [{ "label": "Explore Innovation", "href": "/research", "variant": "primary" }]
+    },
+    {
+      "id": "admissions",
+      "title": ["Your Future", "Starts Here"],
+      "highlight": 1,
+      "text": "Admissions are open for the academic year {academicYear}. EAPCET code {eapcetCode}.",
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f",
+      "alt": "Graduates throwing their caps in the air",
+      "ctas": [
+        { "label": "Admissions {academicYear}", "href": "/admissions", "variant": "premium" },
+        { "label": "Contact Admissions", "href": "/contact", "variant": "outline" }
+      ]
+    }
+  ],
+  "announcements": [
+    { "text": "Polytechnic admissions are now open for the academic year 2026–27.", "href": "/admissions" },
+    { "text": "NIRF 2026 Functional Address published.", "href": "https://lbce.edu.in/static/nirf26.pdf", "external": true },
+    { "text": "UGC Mandate 2025–26 is available for download.", "href": "https://lbce.edu.in/static/UGC-2025-26.pdf", "external": true },
+    { "text": "Pay college fees online through the secure CCAvenue portal.", "href": "https://formbuilder.ccavenue.com/live/the-society-for-collegiate-education", "external": true }
+  ],
+  "quickAccess": [
+    { "label": "Admissions", "desc": "Eligibility, fees and how to apply", "href": "/admissions", "icon": "GraduationCap" },
+    { "label": "Departments", "desc": "Five engineering disciplines", "href": "/departments", "icon": "Building2" },
+    { "label": "Placements", "desc": "Training and recruiters", "href": "/placements", "icon": "Briefcase" },
+    { "label": "Academics", "desc": "Calendar, syllabus, exams", "href": "/academics", "icon": "BookOpen" },
+    { "label": "Campus", "desc": "Facilities and campus life", "href": "/facilities", "icon": "MapPin" },
+    { "label": "Contact", "desc": "Reach the right office", "href": "/contact", "icon": "Phone" }
+  ],
+  "intro": {
+    "title": "A Place to Learn. A Place to Innovate.",
+    "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d",
+    "alt": "Bright library reading hall with tall glass windows",
+    "paragraphs": [
+      "Dr. Lankapalli Bullayya College of Engineering was established in 2010 in Visakhapatnam. The college is affiliated to Andhra University and approved by AICTE, New Delhi.",
+      "Our approach is simple: strong fundamentals, a lot of hands-on practice, and close contact with industry, so graduates can do the work from their first day."
+    ],
+    "pillars": [
+      { "title": "Vision", "text": "To be a centre of engineering education that produces competent, ethical and innovative engineers.", "icon": "Eye" },
+      { "title": "Mission", "text": "Teach fundamentals well, learn by building, work with industry, and nurture research and entrepreneurship.", "icon": "Target" },
+      { "title": "Philosophy", "text": "Outcome-based learning where every concept is tested in a lab, project or real problem.", "icon": "Compass" }
+    ]
+  },
+  "stats": [
+    { "value": "XX", "suffix": "+", "label": "Years of Excellence" },
+    { "value": "5", "suffix": "", "label": "Engineering Departments" },
+    { "value": "XX", "suffix": "+", "label": "Faculty Members" },
+    { "value": "XX", "suffix": "+", "label": "Alumni" },
+    { "value": "XX", "suffix": "%", "label": "Placement Success" }
+  ],
+  "statsNote": "Figures marked XX are awaiting verified institutional data.",
+  "academics": [
+    { "title": "Undergraduate Programs", "text": "Four-year B.Tech degrees across five engineering disciplines.", "icon": "GraduationCap", "href": "/academics#programs" },
+    { "title": "Polytechnic Diploma", "text": "Diploma programs with admissions open for 2026–27.", "icon": "Wrench", "href": "/academics#programs" },
+    { "title": "Academic Calendar", "text": "Semester dates, examinations and holidays.", "icon": "CalendarDays", "href": "/academics#calendar" },
+    { "title": "Curriculum & Syllabus", "text": "Andhra University regulations and course structures.", "icon": "FileText", "href": "/academics#curriculum" },
+    { "title": "Examinations", "text": "Schedules, notifications and results.", "icon": "ClipboardCheck", "href": "/academics#examination" },
+    { "title": "Academic Council", "text": "Board of Studies and Academic Council proceedings.", "icon": "Landmark", "href": "/academic-council" }
+  ],
+  "research": {
+    "title": "Research & Innovation",
+    "text": "Faculty and students work on funded projects, publications, patents and startups through the Institution's Innovation Council.",
+    "areas": [
+      { "title": "Research areas", "text": "AI, embedded systems, renewable energy, structures and manufacturing.", "icon": "Atom" },
+      { "title": "Publications", "text": "Journal and conference papers by faculty and students.", "icon": "BookOpen" },
+      { "title": "Patents", "text": "Intellectual property filed from campus work.", "icon": "BadgeCheck" },
+      { "title": "Funded projects", "text": "Sponsored research and consultancy.", "icon": "FlaskConical" },
+      { "title": "IIC & startups", "text": "Ideation, pre-incubation and entrepreneurship support.", "icon": "Rocket" }
+    ],
+    "metrics": [
+      { "value": "XX", "label": "Publications" },
+      { "value": "XX", "label": "Patents filed" },
+      { "value": "XX", "label": "Funded projects" }
+    ]
+  },
+  "campusLife": [
+    { "title": "Technical Activities", "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998", "href": "/activities#technical" },
+    { "title": "Cultural Activities", "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819", "href": "/activities#cultural" },
+    { "title": "Sports", "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc", "href": "/activities#sports" },
+    { "title": "Clubs", "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31", "href": "/activities#clubs" },
+    { "title": "Workshops", "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678", "href": "/activities#workshops" },
+    { "title": "Festivals & Events", "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87", "href": "/events" }
+  ],
+  "cta": {
+    "title": ["Build Your", "Future With Us"],
+    "text": "Admissions for {academicYear} are open. Talk to our admissions team about programs, eligibility and fees.",
+    "ctas": [
+      { "label": "Explore Admissions", "href": "/admissions", "variant": "primary" },
+      { "label": "Pay Online", "href": "https://formbuilder.ccavenue.com/live/the-society-for-collegiate-education", "variant": "outline", "external": true }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_note": "Categories are fixed. Items stay empty until verified achievements are supplied. Each item: title, category, date, summary, image (optional).",
+  "categories": [
+    { "id": "student", "title": "Student achievements", "icon": "GraduationCap", "text": "Competitions, projects, certifications and higher-study admits." },
+    { "id": "faculty", "title": "Faculty achievements", "icon": "Users", "text": "Doctorates, awards, fellowships and recognitions." },
+    { "id": "research", "title": "Research achievements", "icon": "Atom", "text": "Publications, patents and funded projects." },
+    { "id": "sports", "title": "Sports achievements", "icon": "Trophy", "text": "University and inter-college medals." },
+    { "id": "awards", "title": "Awards & rankings", "icon": "Award", "text": "Institutional awards and ranking outcomes." },
+    { "id": "competitions", "title": "Competitions", "icon": "Medal", "text": "Hackathons, design contests and olympiads." }
+  ],
+  "items": []
+}

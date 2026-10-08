@@ -1,0 +1,262 @@
+{
+  "main": [
+    { "label": "Home", "href": "/" },
+    {
+      "label": "Profile",
+      "href": "/profile",
+      "mega": {
+        "title": "The Institution",
+        "intro": "Who we are, how we are governed and how quality is assured.",
+        "groups": [
+          {
+            "title": "About",
+            "items": [
+              { "label": "College Profile", "href": "/profile", "icon": "Landmark", "desc": "History, vision and mission" },
+              { "label": "Alumni", "href": "/alumni", "icon": "GraduationCap", "desc": "Graduates and the alumni network" },
+              { "label": "Faculty", "href": "/faculty", "icon": "Users", "desc": "Search the faculty directory" }
+            ]
+          },
+          {
+            "title": "Governance",
+            "items": [
+              { "label": "Governing Body", "href": "/governing-body", "icon": "Gavel", "desc": "Statutory oversight" },
+              { "label": "Academic Council", "href": "/academic-council", "icon": "Scale", "desc": "Academic policy and approvals" },
+              { "label": "Committees", "href": "/committees", "icon": "Network", "desc": "Statutory and institutional committees" }
+            ]
+          },
+          {
+            "title": "Quality & transparency",
+            "items": [
+              { "label": "IQAC", "href": "/iqac", "icon": "BadgeCheck", "desc": "Internal Quality Assurance Cell" },
+              { "label": "RTI", "href": "/rti", "icon": "FileSearch", "desc": "Right to Information" },
+              { "label": "Background Verification", "href": "/bgv", "icon": "UserCheck", "desc": "Verify a graduate's credentials" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Departments",
+      "href": "/departments",
+      "mega": { "title": "Engineering Departments", "intro": "Five departments, one campus.", "type": "departments", "groups": [] }
+    },
+    {
+      "label": "Facilities",
+      "href": "/facilities",
+      "mega": {
+        "title": "Campus & Facilities",
+        "intro": "Where the learning happens, and where students live, play and rest.",
+        "groups": [
+          {
+            "title": "Learning spaces",
+            "items": [
+              { "label": "All Facilities", "href": "/facilities", "icon": "LayoutGrid" },
+              { "label": "Library", "href": "/facilities#library", "icon": "Library" },
+              { "label": "Laboratories", "href": "/facilities#laboratories", "icon": "FlaskConical" }
+            ]
+          },
+          {
+            "title": "Student living",
+            "items": [
+              { "label": "Hostel", "href": "/facilities#hostels", "icon": "BedDouble" },
+              { "label": "Sports", "href": "/facilities#sports", "icon": "Trophy" },
+              { "label": "Transport", "href": "/facilities#transportation", "icon": "Bus" }
+            ]
+          },
+          {
+            "title": "See the campus",
+            "items": [
+              { "label": "Campus Glimpses", "href": "/campus-glimpses", "icon": "Camera" },
+              { "label": "Gallery", "href": "/gallery", "icon": "Image" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Academics",
+      "href": "/academics",
+      "mega": {
+        "title": "Academics",
+        "intro": "Programs, regulations and the academic calendar.",
+        "groups": [
+          {
+            "title": "Programs",
+            "items": [
+              { "label": "Undergraduate (B.Tech)", "href": "/academics#programs", "icon": "GraduationCap", "desc": "Four-year engineering degrees" },
+              { "label": "Postgraduate", "href": "/academics#programs", "icon": "BookOpen", "desc": "Advanced study and specialisation" },
+              { "label": "Diploma (Polytechnic)", "href": "/academics#programs", "icon": "Wrench", "desc": "Admissions open for 2026–27" },
+              { "label": "Departments", "href": "/departments", "icon": "Building2" }
+            ]
+          },
+          {
+            "title": "Academic resources",
+            "items": [
+              { "label": "Academic Calendar", "href": "/academics#calendar", "icon": "CalendarDays" },
+              { "label": "Regulations", "href": "/academics#regulations", "icon": "Scale" },
+              { "label": "Curriculum & Syllabus", "href": "/academics#curriculum", "icon": "FileText" },
+              { "label": "Examinations & Results", "href": "/academics#examination", "icon": "ClipboardCheck" }
+            ]
+          },
+          {
+            "title": "Academic bodies",
+            "items": [
+              { "label": "Academic Council", "href": "/academic-council", "icon": "Landmark" },
+              { "label": "Board of Studies", "href": "/board-of-studies", "icon": "Users" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Activities",
+      "href": "/activities",
+      "mega": {
+        "title": "Activities",
+        "intro": "Learning that happens outside the timetable.",
+        "groups": [
+          {
+            "title": "Student activities",
+            "items": [
+              { "label": "Technical Events", "href": "/activities#technical", "icon": "Cpu" },
+              { "label": "Cultural Events", "href": "/activities#cultural", "icon": "Music" },
+              { "label": "Sports", "href": "/activities#sports", "icon": "Trophy" },
+              { "label": "Clubs & Chapters", "href": "/activities#clubs", "icon": "Users" }
+            ]
+          },
+          {
+            "title": "Institutional",
+            "items": [
+              { "label": "Workshops & Seminars", "href": "/activities#workshops", "icon": "Presentation" },
+              { "label": "Conferences", "href": "/activities#conferences", "icon": "Mic" },
+              { "label": "Faculty Development", "href": "/activities#fdp", "icon": "BookOpen" },
+              { "label": "Capacity Building", "href": "/capacity-building", "icon": "Layers" }
+            ]
+          },
+          {
+            "title": "Innovation",
+            "items": [
+              { "label": "IIC", "href": "/iic", "icon": "Lightbulb" },
+              { "label": "Entrepreneurship & Startups", "href": "/iic#entrepreneurship", "icon": "Rocket" },
+              { "label": "Hackathons", "href": "/activities#hackathons", "icon": "Code" },
+              { "label": "Skill Development", "href": "/skill-development", "icon": "Wrench" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Placements",
+      "href": "/placements",
+      "mega": {
+        "title": "Placements",
+        "intro": "Training, internships and campus recruitment.",
+        "groups": [
+          {
+            "title": "Training & Placement Cell",
+            "items": [
+              { "label": "Placement Overview", "href": "/placements", "icon": "Briefcase" },
+              { "label": "Placement Process", "href": "/placements#process", "icon": "ClipboardCheck" },
+              { "label": "Recruiters", "href": "/placements#recruiters", "icon": "Building" }
+            ]
+          },
+          {
+            "title": "Career readiness",
+            "items": [
+              { "label": "Training", "href": "/placements#training", "icon": "Target" },
+              { "label": "Placement Statistics", "href": "/placements#statistics", "icon": "BarChart3" },
+              { "label": "Skill Development", "href": "/skill-development", "icon": "Wrench" }
+            ]
+          }
+        ]
+      }
+    },
+    { "label": "Campus Life", "href": "/campus-life" },
+    {
+      "label": "Resources",
+      "href": "/downloads",
+      "mega": {
+        "title": "Resources & Disclosures",
+        "intro": "Accreditations, mandatory disclosures, policies and documents.",
+        "groups": [
+          {
+            "title": "Accreditation",
+            "items": [
+              { "label": "NAAC", "href": "/naac", "icon": "Award" },
+              { "label": "AICTE", "href": "/aicte", "icon": "ShieldCheck" },
+              { "label": "UGC", "href": "/ugc", "icon": "Landmark" },
+              { "label": "NIRF", "href": "/nirf", "icon": "BarChart3" },
+              { "label": "ISO", "href": "/iso", "icon": "BadgeCheck" }
+            ]
+          },
+          {
+            "title": "Documents",
+            "items": [
+              { "label": "Policies", "href": "/policies", "icon": "FileText" },
+              { "label": "Reports", "href": "/reports", "icon": "ClipboardCheck" },
+              { "label": "Downloads", "href": "/downloads", "icon": "Download" },
+              { "label": "LBC Times", "href": "/lbc-times", "icon": "Newspaper" }
+            ]
+          },
+          {
+            "title": "Key documents",
+            "items": [
+              { "label": "NIRF 2026 Functional Address", "href": "https://lbce.edu.in/static/nirf26.pdf", "icon": "FileText", "external": true, "desc": "PDF" },
+              { "label": "UGC Mandate 2025–26", "href": "https://lbce.edu.in/static/UGC-2025-26.pdf", "icon": "FileText", "external": true, "desc": "PDF" },
+              { "label": "Pay Online", "href": "https://formbuilder.ccavenue.com/live/the-society-for-collegiate-education", "icon": "CreditCard", "external": true, "desc": "Fee payment via CCAvenue" }
+            ]
+          }
+        ]
+      }
+    },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "footer": [
+    {
+      "title": "College",
+      "links": [
+        { "label": "Profile", "href": "/profile" },
+        { "label": "Departments", "href": "/departments" },
+        { "label": "Academics", "href": "/academics" },
+        { "label": "Facilities", "href": "/facilities" },
+        { "label": "Placements", "href": "/placements" },
+        { "label": "Alumni", "href": "/alumni" }
+      ]
+    },
+    {
+      "title": "Institutional",
+      "links": [
+        { "label": "Governing Body", "href": "/governing-body" },
+        { "label": "IQAC", "href": "/iqac" },
+        { "label": "NAAC", "href": "/naac" },
+        { "label": "NIRF", "href": "/nirf" },
+        { "label": "AICTE", "href": "/aicte" },
+        { "label": "UGC", "href": "/ugc" },
+        { "label": "RTI", "href": "/rti" },
+        { "label": "Committees", "href": "/committees" }
+      ]
+    },
+    {
+      "title": "Student",
+      "links": [
+        { "label": "Admissions", "href": "/admissions" },
+        { "label": "Student Activities", "href": "/activities" },
+        { "label": "Skill Development", "href": "/skill-development" },
+        { "label": "Placements", "href": "/placements" },
+        { "label": "Grievances", "href": "/grievance" },
+        { "label": "Feedback", "href": "/feedback" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "label": "Policies", "href": "/policies" },
+        { "label": "Reports", "href": "/reports" },
+        { "label": "Downloads", "href": "/downloads" },
+        { "label": "Gallery", "href": "/gallery" },
+        { "label": "Background Verification", "href": "/bgv" },
+        { "label": "Pay Online", "href": "https://formbuilder.ccavenue.com/live/the-society-for-collegiate-education", "external": true }
+      ]
+    }
+  ]
+}

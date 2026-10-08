@@ -1,0 +1,84 @@
+{
+  "_note": "Statistics stay as XX until the Training & Placement Cell supplies verified data. When it does, fill 'byYear' with real numbers and the chart renders automatically.",
+  "officialUrl": "https://lbce.edu.in/lbce/placements",
+  "title": "Preparing Students for the World of Work",
+  "text": "The Training & Placement Cell runs aptitude and soft-skills training, arranges internships and organises campus recruitment drives for final-year students.",
+  "stats": [
+    {
+      "value": "XX",
+      "suffix": "%",
+      "label": "Students placed"
+    },
+    {
+      "value": "XX",
+      "suffix": "+",
+      "label": "Recruiting companies"
+    },
+    {
+      "value": "XX",
+      "suffix": " LPA",
+      "label": "Highest package"
+    },
+    {
+      "value": "XX",
+      "suffix": "+",
+      "label": "Internships"
+    }
+  ],
+  "byYear": [],
+  "process": [
+    {
+      "title": "Registration",
+      "text": "Final-year students register with the T&P Cell."
+    },
+    {
+      "title": "Training",
+      "text": "Aptitude, communication and technical preparation."
+    },
+    {
+      "title": "Pre-placement talks",
+      "text": "Companies present roles, packages and selection rounds."
+    },
+    {
+      "title": "Selection rounds",
+      "text": "Tests, group discussions and interviews."
+    },
+    {
+      "title": "Offer & onboarding",
+      "text": "Offer letters issued and joining formalities completed."
+    }
+  ],
+  "training": [
+    {
+      "title": "Aptitude & reasoning",
+      "icon": "Calculator",
+      "text": "Quantitative aptitude, logical reasoning and verbal ability, practised through timed tests in the format recruiters use."
+    },
+    {
+      "title": "Communication & soft skills",
+      "icon": "MessageSquare",
+      "text": "Group discussions, presentations and workplace communication."
+    },
+    {
+      "title": "Technical interview prep",
+      "icon": "Code",
+      "text": "Core subject revision, coding practice and mock technical interviews."
+    },
+    {
+      "title": "Internships",
+      "icon": "Briefcase",
+      "text": "Short industry placements that put classroom learning to work."
+    },
+    {
+      "title": "Career guidance",
+      "icon": "Compass",
+      "text": "One-to-one advice on jobs, higher studies and competitive exams."
+    },
+    {
+      "title": "Certifications",
+      "icon": "BadgeCheck",
+      "text": "Industry-recognised certifications that strengthen a resume."
+    }
+  ],
+  "recruiters": []
+}

@@ -1,0 +1,11 @@
+{
+  "_note": "Sample entries showing the structure. Replace with the real events calendar.",
+  "events": [
+    { "slug": "guest-lecture-core-careers", "title": "Guest Lecture: Careers in Core Engineering", "date": "2026-09-12", "location": "Seminar Hall", "category": "Academic", "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87", "summary": "An industry speaker on careers in civil, electrical and mechanical engineering.", "featured": false, "registerUrl": "" },
+    { "slug": "orientation-2026", "title": "Orientation Programme for First-Year Students", "date": "2026-10-20", "endDate": "2026-10-22", "location": "Auditorium", "category": "Academic", "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66", "summary": "Induction for the incoming batch: campus, departments, rules and support services.", "featured": true, "registerUrl": "" },
+    { "slug": "campus-hackathon-2026", "title": "Campus Hackathon", "date": "2026-11-07", "endDate": "2026-11-08", "location": "CSE Block", "category": "Technical", "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998", "summary": "A 24-hour build event open to all branches. Teams of up to four.", "featured": false, "registerUrl": "" },
+    { "slug": "fdp-ai-in-engineering", "title": "Faculty Development Programme on AI in Engineering", "date": "2026-11-18", "endDate": "2026-11-22", "location": "Seminar Hall", "category": "Workshop", "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40", "summary": "A five-day FDP on applying machine learning across engineering disciplines.", "featured": false, "registerUrl": "" },
+    { "slug": "annual-sports-meet-2026", "title": "Annual Sports Meet", "date": "2026-12-05", "endDate": "2026-12-06", "location": "College Grounds", "category": "Sports", "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211", "summary": "Track, field and team events across departments.", "featured": false, "registerUrl": "" },
+    { "slug": "cultural-fest-2027", "title": "Annual Cultural Festival", "date": "2027-01-23", "endDate": "2027-01-24", "location": "Open Air Theatre", "category": "Cultural", "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819", "summary": "Music, dance, theatre and art from every department.", "featured": false, "registerUrl": "" }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "_note": "Programme names, labs and research areas are drafted placeholders for the department to verify. Intake and faculty counts stay as XX until official figures are supplied.",
+  "departments": [
+    {
+      "slug": "computer-science-engineering",
+      "code": "CSE",
+      "name": "Computer Science & Engineering",
+      "icon": "Cpu",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
+      "summary": "Computing, software engineering, artificial intelligence and emerging technologies.",
+      "about": "The department teaches the foundations of computing — algorithms, systems, data and software design — and builds on them with hands-on work in artificial intelligence, data science and cloud technologies.",
+      "vision": "To produce computer science engineers who solve real problems with sound fundamentals and responsible use of technology.",
+      "mission": [
+        "Teach core computing with a strong problem-solving focus.",
+        "Give every student lab and project experience on current platforms.",
+        "Work with industry on internships, projects and training.",
+        "Encourage research, innovation and ethical practice."
+      ],
+      "programs": [
+        { "name": "B.Tech in Computer Science & Engineering", "level": "Undergraduate", "duration": "4 years", "intake": "XX" }
+      ],
+      "labs": ["Programming Lab", "Data Structures Lab", "Database Systems Lab", "Networks Lab", "AI & Machine Learning Lab"],
+      "research": ["Artificial Intelligence", "Machine Learning", "Data Science", "Cyber Security", "Cloud Computing"],
+      "faculty": "XX",
+      "contact": { "email": "", "phone": "" }
+    },
+    {
+      "slug": "civil-engineering",
+      "code": "CIVIL",
+      "name": "Civil Engineering",
+      "icon": "Building2",
+      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+      "summary": "Structures, surveying, transportation, water resources and sustainable infrastructure.",
+      "about": "Civil Engineering prepares students to plan, design and build the infrastructure communities depend on — from buildings and roads to water systems — with an emphasis on safety and sustainability.",
+      "vision": "To develop civil engineers who build safe, sustainable infrastructure for society.",
+      "mission": [
+        "Teach design and analysis grounded in field practice.",
+        "Expose students to site work, surveying and testing.",
+        "Promote sustainable and safe construction practice.",
+        "Partner with industry and government on projects."
+      ],
+      "programs": [
+        { "name": "B.Tech in Civil Engineering", "level": "Undergraduate", "duration": "4 years", "intake": "XX" }
+      ],
+      "labs": ["Surveying Lab", "Strength of Materials Lab", "Concrete Technology Lab", "Geotechnical Engineering Lab", "Fluid Mechanics Lab"],
+      "research": ["Structural Engineering", "Geotechnical Engineering", "Transportation", "Environmental Engineering", "Water Resources"],
+      "faculty": "XX",
+      "contact": { "email": "", "phone": "" }
+    },
+    {
+      "slug": "electronics-communication-engineering",
+      "code": "ECE",
+      "name": "Electronics & Communication Engineering",
+      "icon": "CircuitBoard",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "summary": "Electronic devices, embedded systems, VLSI, signal processing and communication networks.",
+      "about": "ECE covers how electronic systems are designed and how they communicate — from devices and circuits to embedded systems, VLSI design and wireless networks.",
+      "vision": "To develop electronics and communication engineers ready for a connected world.",
+      "mission": [
+        "Teach circuits, signals and systems with strong lab practice.",
+        "Build skills in embedded systems and VLSI design.",
+        "Engage students in projects with industry relevance.",
+        "Foster research and continuous learning."
+      ],
+      "programs": [
+        { "name": "B.Tech in Electronics & Communication Engineering", "level": "Undergraduate", "duration": "4 years", "intake": "XX" }
+      ],
+      "labs": ["Electronic Devices & Circuits Lab", "Digital Electronics Lab", "Microprocessors & Microcontrollers Lab", "Communication Systems Lab", "VLSI & Embedded Systems Lab"],
+      "research": ["VLSI Design", "Embedded Systems", "Signal Processing", "Wireless Communication", "Internet of Things"],
+      "faculty": "XX",
+      "contact": { "email": "", "phone": "" }
+    },
+    {
+      "slug": "electrical-electronics-engineering",
+      "code": "EEE",
+      "name": "Electrical & Electronics Engineering",
+      "icon": "Zap",
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e",
+      "summary": "Power systems, electrical machines, control systems and renewable energy.",
+      "about": "EEE deals with how electrical energy is generated, transmitted, controlled and used — with growing focus on power electronics, electric mobility and renewable sources.",
+      "vision": "To develop electrical engineers who power a sustainable future.",
+      "mission": [
+        "Teach machines, power systems and control with depth.",
+        "Provide practical exposure through labs and industrial visits.",
+        "Promote work in renewable energy and electric mobility.",
+        "Encourage innovation and professional ethics."
+      ],
+      "programs": [
+        { "name": "B.Tech in Electrical & Electronics Engineering", "level": "Undergraduate", "duration": "4 years", "intake": "XX" }
+      ],
+      "labs": ["Electrical Machines Lab", "Power Electronics Lab", "Control Systems Lab", "Electrical Measurements Lab", "Power Systems Lab"],
+      "research": ["Power Systems", "Power Electronics", "Renewable Energy", "Electric Vehicles", "Smart Grids"],
+      "faculty": "XX",
+      "contact": { "email": "", "phone": "" }
+    },
+    {
+      "slug": "mechanical-engineering",
+      "code": "MECH",
+      "name": "Mechanical Engineering",
+      "icon": "Cog",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+      "summary": "Design, manufacturing, thermal engineering, robotics and automation.",
+      "about": "Mechanical Engineering covers how machines are designed, analysed and made — thermal and fluid systems, manufacturing processes, and increasingly robotics and automation.",
+      "vision": "To develop mechanical engineers who design and make things that work.",
+      "mission": [
+        "Teach design, thermal and manufacturing fundamentals.",
+        "Give hands-on experience in workshops and labs.",
+        "Introduce CAD/CAM, automation and robotics.",
+        "Connect students with manufacturing industry."
+      ],
+      "programs": [
+        { "name": "B.Tech in Mechanical Engineering", "level": "Undergraduate", "duration": "4 years", "intake": "XX" }
+      ],
+      "labs": ["Workshop", "Thermal Engineering Lab", "Fluid Mechanics & Machinery Lab", "CAD/CAM Lab", "Metrology Lab"],
+      "research": ["Design Engineering", "Manufacturing", "Thermal Engineering", "Robotics", "Materials"],
+      "faculty": "XX",
+      "contact": { "email": "", "phone": "" }
+    }
+  ]
+}

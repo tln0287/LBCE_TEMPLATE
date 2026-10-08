@@ -1,0 +1,15 @@
+{
+  "_note": "Purposes and responsibilities describe what each committee does in general. Members and contacts stay empty until the official list is supplied.",
+  "legacyUrl": "https://lbce.edu.in/engcollege/committees",
+  "committees": [
+    { "id": "anti-ragging", "name": "Anti-Ragging Committee", "icon": "ShieldCheck", "purpose": "Prevents ragging and acts on complaints.", "responsibilities": ["Monitor campus, hostels and transport for ragging", "Conduct awareness programs", "Investigate complaints and recommend action"], "members": [], "documents": [], "contact": "" },
+    { "id": "grievance", "name": "Grievance Redressal Committee", "icon": "MessageSquare", "purpose": "Hears and resolves grievances of students and staff.", "responsibilities": ["Receive and record grievances", "Hold hearings within set timelines", "Communicate decisions to the complainant"], "members": [], "documents": [], "contact": "" },
+    { "id": "icc", "name": "Internal Complaints Committee", "icon": "Scale", "purpose": "Addresses complaints of sexual harassment under the POSH Act.", "responsibilities": ["Receive complaints confidentially", "Conduct inquiries as per the Act", "Run awareness and sensitisation sessions"], "members": [], "documents": [], "contact": "" },
+    { "id": "sc-st", "name": "SC/ST Cell", "icon": "Users", "purpose": "Safeguards the interests of SC/ST students and staff.", "responsibilities": ["Ensure implementation of reservation policies", "Address grievances", "Promote welfare schemes"], "members": [], "documents": [], "contact": "" },
+    { "id": "women-empowerment", "name": "Women Empowerment Cell", "icon": "Users", "purpose": "Promotes the safety, wellbeing and leadership of women on campus.", "responsibilities": ["Organise awareness and skill programs", "Provide a forum for concerns", "Celebrate achievements"], "members": [], "documents": [], "contact": "" },
+    { "id": "discipline", "name": "Discipline Committee", "icon": "Gavel", "purpose": "Maintains discipline across campus.", "responsibilities": ["Frame and enforce the code of conduct", "Inquire into misconduct", "Recommend corrective action"], "members": [], "documents": [], "contact": "" },
+    { "id": "examination", "name": "Examination Committee", "icon": "ClipboardCheck", "purpose": "Conducts internal and university examinations.", "responsibilities": ["Prepare exam schedules", "Ensure fair conduct of exams", "Coordinate with the university"], "members": [], "documents": [], "contact": "" },
+    { "id": "library", "name": "Library Committee", "icon": "Library", "purpose": "Guides library development and services.", "responsibilities": ["Recommend acquisitions", "Review library usage", "Improve digital resources"], "members": [], "documents": [], "contact": "" },
+    { "id": "sports", "name": "Sports Committee", "icon": "Trophy", "purpose": "Promotes sports and physical fitness.", "responsibilities": ["Plan sports events", "Select teams for competitions", "Maintain sports facilities"], "members": [], "documents": [], "contact": "" }
+  ]
+}

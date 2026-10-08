@@ -1,0 +1,57 @@
+{
+  "name": "Dr. Lankapalli Bullayya College of Engineering",
+  "shortName": "LBCE",
+  "tagline": "Engineering • Technology • Innovation",
+  "established": 2010,
+  "affiliation": "Affiliated to Andhra University · Approved by AICTE, New Delhi",
+  "eapcetCode": "DLBC",
+  "url": "https://lbce.edu.in",
+  "academicYear": "2026–27",
+  "admissionsOpen": true,
+  "contact": {
+    "address": "Survey No. 44, National Highway 16, Near Rama Talkies Rd, Resapuvanipalem, Visakhapatnam, Andhra Pradesh 530013",
+    "phone": "0891-2551630",
+    "email": "principal@lbce.edu.in",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dr.+Lankapalli+Bullayya+College+of+Engineering+Visakhapatnam",
+    "mapEmbed": "https://www.google.com/maps?q=Dr.+Lankapalli+Bullayya+College+of+Engineering,+Visakhapatnam&output=embed"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "x": ""
+  },
+  "externalLinks": {
+    "legacyHome": "https://lbce.edu.in/",
+    "gallery": "https://lbce.edu.in/engcollege/gallery",
+    "alumni": "https://lbce.edu.in/engcollege/alumni",
+    "committees": "https://lbce.edu.in/engcollege/committees",
+    "iso": "https://lbce.edu.in/engcollege/iso",
+    "capacityBuilding": "https://lbce.edu.in/engcollege/capacitybuildingprograms",
+    "placements": "https://lbce.edu.in/lbce/placements",
+    "nirf": "https://lbce.edu.in/engcollege/nirf",
+    "lbcTimes": "https://lbce.edu.in/engcollege/lbctimes",
+    "campusGlimpses": "https://lbce.edu.in/engcollege/campus_glimpses",
+    "policies": "https://lbce.edu.in/engcollege/policies",
+    "bgv": "https://lbce.edu.in/engcollege/bgv",
+    "skillDevelopment": "https://lbce.edu.in/lbce/skill_development",
+    "grievance": "https://lbce.edu.in/engcollege/grievance",
+    "nirf2026FunctionalAddress": "https://lbce.edu.in/static/nirf26.pdf",
+    "ugcMandate": "https://lbce.edu.in/static/UGC-2025-26.pdf",
+    "onlinePayment": "https://formbuilder.ccavenue.com/live/the-society-for-collegiate-education",
+    "studentPortal": "",
+    "facultyPortal": ""
+  },
+  "forms": {
+    "endpoint": ""
+  },
+  "utility": {
+    "left": [
+      { "label": "Admissions", "href": "/admissions" },
+      { "label": "Student Portal", "href": "", "external": true },
+      { "label": "Faculty Portal", "href": "", "external": true },
+      { "label": "Careers", "href": "/careers" }
+    ]
+  }
+}

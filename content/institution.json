@@ -1,0 +1,175 @@
+{
+  "_note": "Document-style institutional pages. Each page renders: intro, optional highlights, sections, people (members/officers), timeline and documents. Empty lists render an honest empty state pointing to the current official page.",
+  "pages": [
+    {
+      "slug": "governing-body",
+      "title": "Governing Body",
+      "kicker": "Governance",
+      "intro": "The Governing Body is the apex statutory body of the college. It oversees institutional policy, finance, appointments and development, as required by AICTE and the affiliating university.",
+      "sections": [
+        { "title": "Role", "items": ["Approve institutional policies and strategic plans", "Approve budgets and audited accounts", "Review academic and administrative performance", "Ensure compliance with AICTE, UGC and university norms"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "academic-council",
+      "title": "Academic Council",
+      "kicker": "Governance",
+      "intro": "The Academic Council is responsible for academic standards: curricula, regulations, examinations and evaluation.",
+      "sections": [
+        { "title": "Responsibilities", "items": ["Approve curricula and syllabi recommended by the Boards of Studies", "Frame academic regulations", "Review examination and evaluation processes", "Recommend new programs"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "board-of-studies",
+      "title": "Board of Studies",
+      "kicker": "Governance",
+      "intro": "Each department has a Board of Studies that reviews and proposes curriculum, courses and teaching practice for its programs.",
+      "sections": [
+        { "title": "Boards", "items": ["Computer Science & Engineering", "Civil Engineering", "Electronics & Communication Engineering", "Electrical & Electronics Engineering", "Mechanical Engineering", "Basic Sciences & Humanities"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "iqac",
+      "title": "Internal Quality Assurance Cell",
+      "kicker": "Quality",
+      "intro": "The IQAC plans, guides and monitors quality assurance and enhancement across the college's academic and administrative activities.",
+      "sections": [
+        { "title": "About IQAC", "items": ["Develop quality benchmarks for academic and administrative activities", "Collect and analyse stakeholder feedback", "Prepare the Annual Quality Assurance Report (AQAR)", "Coordinate NAAC accreditation processes"] },
+        { "title": "Quality initiatives", "items": ["Faculty development programs", "Academic and administrative audits", "Outcome-based education practices", "Best-practice documentation"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "reportTypes": ["AQAR", "Minutes of meetings", "Action taken reports", "Feedback analysis"],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "naac",
+      "title": "NAAC",
+      "kicker": "Accreditation",
+      "intro": "The National Assessment and Accreditation Council assesses and accredits higher education institutions on quality parameters. The college is NAAC certified.",
+      "sections": [
+        { "title": "What is published here", "items": ["Accreditation certificate", "Self Study Report (SSR)", "AQARs", "Peer team report"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "aicte",
+      "title": "AICTE",
+      "kicker": "Accreditation",
+      "intro": "The college's engineering programs are approved by the All India Council for Technical Education (AICTE), New Delhi.",
+      "sections": [
+        { "title": "What is published here", "items": ["Extension of Approval (EoA) letters", "Mandatory disclosure", "AICTE feedback facility", "Approved intake by program"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "ugc",
+      "title": "UGC",
+      "kicker": "Accreditation",
+      "intro": "Disclosures and compliance with University Grants Commission mandates.",
+      "sections": [],
+      "people": [],
+      "timeline": [],
+      "documents": [{ "title": "UGC Mandate 2025–26", "url": "https://lbce.edu.in/static/UGC-2025-26.pdf", "type": "PDF" }],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "nirf",
+      "title": "NIRF",
+      "kicker": "Accreditation",
+      "intro": "The National Institutional Ranking Framework ranks institutions on teaching, research, graduation outcomes, outreach and perception. This page publishes the data the college submits.",
+      "sections": [
+        { "title": "NIRF parameters", "items": ["Teaching, Learning & Resources", "Research and Professional Practice", "Graduation Outcomes", "Outreach and Inclusivity", "Perception"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [{ "title": "NIRF 2026 Functional Address", "url": "https://lbce.edu.in/static/nirf26.pdf", "type": "PDF" }],
+      "legacyUrl": "https://lbce.edu.in/engcollege/nirf"
+    },
+    {
+      "slug": "iso",
+      "title": "ISO Certification",
+      "kicker": "Quality",
+      "intro": "The college follows an ISO-compliant quality management system for its academic and administrative processes.",
+      "sections": [
+        { "title": "Quality objectives", "items": ["Deliver the curriculum effectively and on schedule", "Improve student outcomes and placements", "Respond to stakeholder feedback", "Continually improve processes"] },
+        { "title": "Scope", "items": ["Scope of certification will be published from the official certificate."] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": "https://lbce.edu.in/engcollege/iso"
+    },
+    {
+      "slug": "iic",
+      "title": "Institution's Innovation Council",
+      "kicker": "Innovation",
+      "intro": "The IIC, established under the Ministry of Education's Innovation Cell, promotes innovation, IPR awareness and entrepreneurship among students and faculty.",
+      "sections": [
+        { "title": "Activities", "items": ["Ideation and design-thinking workshops", "IPR and patent awareness sessions", "Hackathons and innovation challenges", "Startup mentoring and pre-incubation"] },
+        { "title": "Entrepreneurship", "id": "entrepreneurship", "items": ["Entrepreneurship awareness camps", "Interaction with startup founders", "Support for student startup ideas"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "rti",
+      "title": "Right to Information",
+      "kicker": "Transparency",
+      "intro": "Information about the college can be requested under the Right to Information Act, 2005.",
+      "sections": [
+        { "title": "How to apply", "items": ["Write an application to the Public Information Officer stating the information required", "Include your name, address and contact details", "Submit in person or by post to the college address", "Information will be provided within the time limit set by the Act"] }
+      ],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "reports",
+      "title": "Reports",
+      "kicker": "Resources",
+      "intro": "Annual reports, AQARs, audit statements and other institutional reports.",
+      "sections": [],
+      "people": [],
+      "timeline": [],
+      "documents": [],
+      "legacyUrl": ""
+    },
+    {
+      "slug": "downloads",
+      "title": "Downloads",
+      "kicker": "Resources",
+      "intro": "Forms, notices and frequently requested documents.",
+      "sections": [],
+      "people": [],
+      "timeline": [],
+      "documents": [
+        { "title": "NIRF 2026 Functional Address", "url": "https://lbce.edu.in/static/nirf26.pdf", "type": "PDF" },
+        { "title": "UGC Mandate 2025–26", "url": "https://lbce.edu.in/static/UGC-2025-26.pdf", "type": "PDF" }
+      ],
+      "legacyUrl": ""
+    }
+  ]
+}

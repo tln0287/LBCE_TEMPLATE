@@ -1,0 +1,17 @@
+{
+  "facilities": [
+    { "id": "classrooms", "title": "Classrooms", "text": "Spacious, well-lit classrooms with projection and digital teaching aids.", "icon": "Presentation", "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655" },
+    { "id": "laboratories", "title": "Laboratories", "text": "Department labs for every discipline, aligned to the university curriculum.", "icon": "FlaskConical", "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d" },
+    { "id": "library", "title": "Library", "text": "Print and digital collections, journals and quiet reading spaces.", "icon": "Library", "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66" },
+    { "id": "computer-labs", "title": "Computer Labs", "text": "Networked systems with licensed software and internet access.", "icon": "Monitor", "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085" },
+    { "id": "workshops", "title": "Workshops", "text": "Fitting, welding, carpentry and machining for hands-on skills.", "icon": "Wrench", "image": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122" },
+    { "id": "auditorium", "title": "Auditorium", "text": "A large hall for convocations, cultural events and guest lectures.", "icon": "Theater", "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66" },
+    { "id": "seminar-halls", "title": "Seminar Halls", "text": "Halls for seminars, workshops and department events.", "icon": "Mic", "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40" },
+    { "id": "sports", "title": "Sports Facilities", "text": "Grounds and courts for outdoor and indoor sports.", "icon": "Trophy", "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211" },
+    { "id": "hostels", "title": "Hostels", "text": "Safe, supervised residential facilities for students.", "icon": "BedDouble", "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2" },
+    { "id": "cafeteria", "title": "Cafeteria", "text": "Hygienic, affordable food on campus.", "icon": "Coffee", "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f" },
+    { "id": "transportation", "title": "Transportation", "text": "College buses covering routes across Visakhapatnam.", "icon": "Bus", "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e" },
+    { "id": "medical", "title": "Medical Facilities", "text": "First aid and medical support for students and staff.", "icon": "HeartPulse", "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef" },
+    { "id": "innovation-labs", "title": "Innovation Labs", "text": "Maker spaces for prototypes, projects and startup ideas.", "icon": "Lightbulb", "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd" }
+  ]
+}

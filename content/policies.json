@@ -1,0 +1,15 @@
+{
+  "_note": "Attach each policy's PDF to its 'documents' list. Until then the card links to the current official policies page.",
+  "legacyUrl": "https://lbce.edu.in/engcollege/policies",
+  "policies": [
+    { "id": "academic", "title": "Academic Policies", "icon": "BookOpen", "text": "Attendance, evaluation, promotion and academic integrity.", "documents": [] },
+    { "id": "student", "title": "Student Policies", "icon": "GraduationCap", "text": "Code of conduct, discipline and student welfare.", "documents": [] },
+    { "id": "research", "title": "Research Policies", "icon": "Atom", "text": "Research ethics, funding, IPR and publication.", "documents": [] },
+    { "id": "hr", "title": "HR Policies", "icon": "Users", "text": "Recruitment, service rules, leave and appraisal.", "documents": [] },
+    { "id": "campus", "title": "Campus Policies", "icon": "Building2", "text": "Campus safety, hostel rules and transport.", "documents": [] },
+    { "id": "anti-ragging", "title": "Anti-Ragging", "icon": "ShieldCheck", "text": "Zero tolerance for ragging, as per UGC and AICTE regulations.", "documents": [] },
+    { "id": "grievance", "title": "Grievance", "icon": "MessageSquare", "text": "How grievances are received, heard and resolved.", "documents": [] },
+    { "id": "it", "title": "IT Policy", "icon": "Monitor", "text": "Acceptable use of IT resources, network and data.", "documents": [] },
+    { "id": "other", "title": "Other Institutional Policies", "icon": "FileText", "text": "Environment, purchase, maintenance and other policies.", "documents": [] }
+  ]
+}

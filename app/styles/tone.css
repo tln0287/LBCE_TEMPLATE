@@ -1,0 +1,132 @@
+/* ==========================================================================
+   Light tone — reduces navy across the site.
+
+   Navy is reserved for the site frame (utility bar, navbar, mega menus, mobile
+   drawer, footer), the homepage hero and one contained CTA card. Everything that
+   was a full-width dark band or dark panel now renders on a light tinted surface.
+
+   Components inside those surfaces were written for dark backgrounds (white text,
+   muted-on-dark text, translucent white fills). Rather than rewrite each one, the
+   scopes below remap the dark-surface tokens, so the same markup reads correctly
+   on light: "white" text becomes navy, dark hairlines become light hairlines and
+   gold deepens enough to keep its contrast.
+   ========================================================================== */
+.section--navy,
+.section--navy-grad,
+.info-panel--navy,
+.frm-trust,
+.cmt-help,
+.evt-cal__list,
+.prof-phil__item,
+.search-hero,
+.nf,
+.tone-light {
+  --white: #071a2b;
+  --on-dark: #071a2b;
+  --on-dark-muted: #4f5d73;
+  --line-dark: rgba(7, 26, 43, 0.1);
+  --gold: #a8841a;
+  --gold-soft: rgba(168, 132, 26, 0.35);
+  --blue-bright: #145da0;
+  color: var(--ink);
+}
+
+/* Buttons inside remapped scopes keep true white text where they sit on a fill. */
+:is(.section--navy, .section--navy-grad, .info-panel--navy, .frm-trust, .cmt-help, .evt-cal__list, .search-hero, .nf, .tone-light) .btn--primary {
+  --btn-fg: #fff;
+}
+:is(.section--navy, .section--navy-grad, .info-panel--navy, .frm-trust, .cmt-help, .evt-cal__list, .search-hero, .nf, .tone-light) .btn--outline {
+  --btn-fg: #071a2b;
+  --btn-bd: #c9a227;
+}
+:is(.section--navy, .section--navy-grad, .info-panel--navy, .frm-trust, .cmt-help, .evt-cal__list, .search-hero, .nf, .tone-light) .btn--outline:hover {
+  --btn-bg: #071a2b;
+  --btn-bd: #071a2b;
+  --btn-fg: #fff;
+}
+:is(.section--navy, .section--navy-grad, .info-panel--navy, .frm-trust, .cmt-help, .evt-cal__list, .search-hero, .nf, .tone-light) .kicker {
+  color: var(--blue);
+}
+:is(.section--navy, .section--navy-grad, .info-panel--navy, .frm-trust, .cmt-help, .evt-cal__list, .search-hero, .nf, .tone-light) .kicker::before {
+  background: #c9a227;
+}
+
+/* Former dark bands → cool tinted surface with a faint blueprint grid. */
+.section--navy,
+.section--navy-grad {
+  background-color: #f2f7fb;
+  background-image:
+    linear-gradient(rgba(20, 93, 160, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(20, 93, 160, 0.05) 1px, transparent 1px),
+    linear-gradient(170deg, #f6f9fc 0%, #e8f0f7 100%);
+  background-size: 56px 56px, 56px 56px, auto;
+  border-block: 1px solid #e1eaf2;
+}
+
+/* Former dark panels → white cards with a gold top edge. */
+.info-panel--navy,
+.frm-trust,
+.cmt-help,
+.evt-cal__list {
+  background: var(--white-true, #fff);
+  background-image: linear-gradient(180deg, #fff 0%, #f7fafd 100%);
+  border: 1px solid var(--line);
+  border-top: 3px solid #c9a227;
+  box-shadow: var(--shadow-card);
+}
+.prof-phil__item { background: #fff; }
+.evt-cal__list a,
+.cmt-help a { color: #071a2b; }
+
+/* Translucent-white fills meant for navy become solid white on light. */
+:is(.section--navy, .section--navy-grad) :is(.research__card, .act-link, .res-iic__card, .adm-pay__box, .dept-contact__card) {
+  background-color: #fff;
+}
+
+/* Search results hero and 404 follow the light inner-page hero. */
+.search-hero,
+.nf {
+  background: linear-gradient(180deg, #fbf9f3 0%, var(--ivory) 100%);
+  border-bottom: 1px solid #ece5d3;
+}
+.search-hero h1,
+.nf h1 { color: #071a2b; }
+.search-hero__grid { opacity: 0.6; }
+.nf .searchbar--dark .searchbar__form { background: #fff; border-color: var(--line); }
+.nf .searchbar--dark .searchbar__input { color: var(--ink); }
+
+/* ---------- Homepage ---------- */
+.ticker {
+  background: #fff;
+  color: var(--ink);
+  border-top: 0;
+  border-bottom: 1px solid var(--line);
+  box-shadow: inset 0 2px 0 var(--gold);
+}
+.ticker__label { color: var(--gold-ink); border-right-color: var(--line); }
+.ticker__track a { color: var(--navy); }
+.ticker__track a:hover { color: var(--blue); }
+.ticker__toggle { border-color: var(--line); color: var(--navy); }
+.ticker__toggle:hover { border-color: var(--gold); color: var(--gold-ink); }
+
+.stats__grid-bg { opacity: 0.5; }
+.campus + .placements { background: none; border-top: 0; padding-top: var(--section-y); }
+
+/* Campus life: light section; the photos carry the colour. */
+.campus { background: var(--ivory); color: var(--ink); }
+.campus::before { display: none; }
+.campus__inner { justify-items: stretch; }
+.cl-cine::before { background: linear-gradient(180deg, rgba(7, 26, 43, 0.6), rgba(7, 26, 43, 0.8)) !important; }
+
+/* CTA: one contained navy card instead of a full-bleed band. */
+.cta { background: var(--white); padding-block: clamp(48px, 7vw, 96px); overflow: visible; }
+.cta__card {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  padding: clamp(36px, 6vw, 80px);
+  border-radius: 28px;
+  background: var(--navy);
+  color: var(--white);
+  box-shadow: 0 40px 80px -40px rgba(7, 26, 43, 0.55);
+}

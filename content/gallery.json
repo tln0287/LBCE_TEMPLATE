@@ -1,0 +1,21 @@
+{
+  "categories": ["Campus", "Events", "Technical", "Cultural", "Sports", "Convocations", "Workshops", "Student Activities"],
+  "items": [
+    { "id": "g1", "category": "Campus", "caption": "Main academic block", "image": "https://images.unsplash.com/photo-1562774053-701939374585", "ratio": "landscape" },
+    { "id": "g2", "category": "Campus", "caption": "Library reading hall", "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d", "ratio": "landscape" },
+    { "id": "g3", "category": "Technical", "caption": "Embedded systems lab session", "image": "https://images.unsplash.com/photo-1562408590-e32931084e23", "ratio": "square" },
+    { "id": "g4", "category": "Events", "caption": "Guest lecture in the seminar hall", "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87", "ratio": "landscape" },
+    { "id": "g5", "category": "Cultural", "caption": "Annual cultural night", "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819", "ratio": "landscape" },
+    { "id": "g6", "category": "Sports", "caption": "Inter-college basketball", "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc", "ratio": "portrait" },
+    { "id": "g7", "category": "Convocations", "caption": "Graduation day", "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f", "ratio": "landscape" },
+    { "id": "g8", "category": "Workshops", "caption": "Hands-on workshop", "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678", "ratio": "landscape" },
+    { "id": "g9", "category": "Student Activities", "caption": "Project team at work", "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31", "ratio": "portrait" },
+    { "id": "g10", "category": "Technical", "caption": "Automation lab", "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158", "ratio": "landscape" },
+    { "id": "g11", "category": "Campus", "caption": "Auditorium", "image": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66", "ratio": "square" },
+    { "id": "g12", "category": "Sports", "caption": "Athletics meet", "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211", "ratio": "landscape" },
+    { "id": "g13", "category": "Student Activities", "caption": "Coding club meetup", "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998", "ratio": "landscape" },
+    { "id": "g14", "category": "Workshops", "caption": "Engineering drawing session", "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e", "ratio": "portrait" },
+    { "id": "g15", "category": "Events", "caption": "Faculty development programme", "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40", "ratio": "landscape" },
+    { "id": "g16", "category": "Technical", "caption": "Electronics bench work", "image": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789", "ratio": "square" }
+  ]
+}
